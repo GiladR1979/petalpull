@@ -1,0 +1,37 @@
+PETALPULL — STEM PULL WORKSHEET
+https://giladr1979.github.io/petalpull/stem-pull-sheet.html#batch-example
+Standalone text worksheet. Not an app import file. No calculations run in this file.
+
+HYPOTHETICAL CHECKED EXAMPLE — not a design or allowance recommendation
+Formula per recipe line: round UP(quantity per design x designs x (1 + allowance / 100)).
+Round each line FIRST, then combine matching material names, varieties and units.
+
+Recipe       | Designs | Material / variety          | Stems/design | Allowance | Pull stems
+Centerpiece  | 12      | Rose / White                | 6            | 10%       | 80
+Centerpiece  | 12      | Carnation / Blush            | 4            | 10%       | 53
+Centerpiece  | 12      | Eucalyptus / Silver dollar   | 3            | 0%        | 36
+Bouquet      | 5       | Rose / White                | 8            | 10%       | 44
+Bouquet      | 5       | Carnation / Blush            | 3            | 10%       | 17
+Bouquet      | 5       | Eucalyptus / Silver dollar   | 2            | 0%        | 10
+
+Consolidated: Rose / White 124 stems; Carnation / Blush 70 stems;
+Eucalyptus / Silver dollar 46 stems. Do not combine different units or varieties.
+Separate hypothetical buying check: 124 needed - 24 usable = 100 short.
+At a confirmed 10 stems/bunch, 100 / 10 = 10 bunches. Confirm your supplier's size.
+
+BLANK RUN SHEET
+Run / date:
+Recipe revisions checked:
+
+Recipe | Batch count | Material | Color / variety | Unit | Per design | Allowance % | Rounded pull
+______ | ___________ | ________ | _______________ | ____ | __________ | ___________ | ____________
+______ | ___________ | ________ | _______________ | ____ | __________ | ___________ | ____________
+______ | ___________ | ________ | _______________ | ____ | __________ | ___________ | ____________
+
+Material / variety | Unit | Consolidated pull | Usable matching stock | Shortfall | Confirmed pack size
+__________________ | ____ | _________________ | _____________________ | _________ | ___________________
+
+Separate supplies / vessels:
+Substitutions confirmed:
+Checked by / handoff time:
+Recalculate if batch quantities or recipe revisions change. This is not a supplier order.
